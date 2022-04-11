@@ -14,7 +14,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-af&hide=issues&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="400px"/>
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true" width="300px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-af&layout=compact&theme=radical&hide_border=true" width="300px" />
   </a>
 </div>
 
