@@ -1,15 +1,18 @@
-<h3 align="center"> Hi there, Bruno is here 👋</h3>
+<h3 align="center"> Hi there, Bruno here 👋</h3>
 
 ##
 
 <div align="center"> 
-  <span>Hello, I am Bruno, a computer science undergraduate student of <span>
-  <a href="https://portal.ufcg.edu.br">UFCG - Universidade Federal de Campina Grande.</a>
+  <span>I graduated in Computer Science from <span>
+  <a href="https://portal.ufcg.edu.br">UFCG - Federal University of Campina Grande</a>
+  <span>, and currently, I work at </span>
+  <a href="https://www.linkedin.com/company/synchro/posts/?feedView=all">Synchro - Fiscal Solutions </a>
+  <span>as a full-stack developer, working with the ReactJs, SpringBoot, Oracle, and Clojure stack. I have also been studying Next.js and LLMs.</span>
 </div>
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoAndradeF&hide=issues&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="400px"/>
   </a>
@@ -19,6 +22,7 @@
 </div>
 
 ##
+-->
 
 <div align="center">
   <a href="https://github.com/BrunoAndradeF/avaliador-disciplinas">
